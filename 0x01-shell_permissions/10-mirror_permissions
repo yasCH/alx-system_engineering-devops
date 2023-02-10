@@ -1,7 +1,0 @@
-#!/bin/bash
-<<<<<<< HEAD
-chmod -R olleh=hello
-chmod --reference=olleh hello
-=======
-chmod olleh=hello
->>>>>>> e990037469802a9516e3bf33bb7b824d23462e41
