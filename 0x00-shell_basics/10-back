@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd -
+=======
+/var/tmp# cd ..
+>>>>>>> 31772e035ea8e0bb867152c225ed5ef44a4ee08e
