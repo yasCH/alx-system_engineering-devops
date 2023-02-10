@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l chmod --olleh=hello
+chmod --olleh=RFile hello
