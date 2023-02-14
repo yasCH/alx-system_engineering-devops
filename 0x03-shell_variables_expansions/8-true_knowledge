@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '128\n217'
+echo -e '128\n +$(TRUEKNOWLEDGE)'
