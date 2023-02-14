@@ -1,2 +1,2 @@
 #!/bin/bash
- printf "%02x\n" $BINARY 
+ printf "%1x\n" $BINARY 
