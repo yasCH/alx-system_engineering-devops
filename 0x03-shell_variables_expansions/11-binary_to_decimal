@@ -1,2 +1,2 @@
 #!/bin/bash
- printf $BINARY
+ echo printf %d $BINARY
