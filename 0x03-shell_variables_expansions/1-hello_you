@@ -1,2 +1,2 @@
 #!/bin/bash
- echo '"Hello" cat 'id -u''
+ echo 'Hello + 'id -u''
