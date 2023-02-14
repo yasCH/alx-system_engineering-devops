@@ -1,2 +1,2 @@
 #!/bin/bash
- printf "%b" $BINARY
+ printf "%o" $BINARY
