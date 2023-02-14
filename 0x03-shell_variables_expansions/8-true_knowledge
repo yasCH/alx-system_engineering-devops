@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 128 + $TRUEKNOWLEDGE |export TRUEKNOWLEDGE=99
+echo 128 + $TRUEKNOWLEDGE |export TRUEKNOWLEDGE=99 |head -n 2
