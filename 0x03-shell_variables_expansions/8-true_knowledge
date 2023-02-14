@@ -1,2 +1,2 @@
 #!/bin/bash
-export TRUEKNOWLEDGE=217 |echo $(TUREKNOWLEDGE)
+export TRUEKNOWLEDGE=217 |echo 128$(TUREKNOWLEDGE)
