@@ -1,2 +1,2 @@
 #!/bin/bash
- printf "%b" "\x0a"
+ printf "%b" $(($BINARY))
