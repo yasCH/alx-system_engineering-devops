@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '128 \n $(TUREKNOWLEDGE)'
+echo -e 128 \n $TUREKNOWLEDGE
