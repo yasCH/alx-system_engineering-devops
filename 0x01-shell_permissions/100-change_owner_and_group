@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root:staff /u
+chown 753 staff
