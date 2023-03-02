@@ -1,2 +1,3 @@
 #!/bin/bash
-chown 753 staff
+chown vincenst 
+chgrp staff
